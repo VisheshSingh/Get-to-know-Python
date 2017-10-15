@@ -9,4 +9,4 @@ print('Hello', name, 'you are', age, 'years old')
 
 radius = int(input("Enter the radius: "))
 area = 3.142 * radius ** 2
-print(area)
+print(area) #78.55
