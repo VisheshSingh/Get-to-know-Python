@@ -1,0 +1,11 @@
+# LAMBDAS - ANONYMOUS FUNCTIONS - used when a function needs to be executed only once
+
+nums = [1,2,3,4,5,6]
+
+# def square(n):
+#     return n * n
+
+# print(list(map(square, nums)))
+
+print(list(map(lambda n : n*n, nums)))
+
