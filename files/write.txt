@@ -1,0 +1,6 @@
+Hello Hello Ninjas, This is an example of writing to file
+and this is a second line
+Amending the third line
+Hello, This is an example of python writing files
+Amending a second line
+and finally ending it with the third
